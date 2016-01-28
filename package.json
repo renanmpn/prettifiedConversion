@@ -1,0 +1,22 @@
+{
+  "name": "renanCrossover",
+  "author": "Renan Monteiro Pinto Neto",
+  "version": "0.2.0",
+  "description": "renanCrossover is a sandbox programm for Crossover",
+  "scripts": {
+    "test": "mocha"
+  },
+  "tags": [
+    "bootstrap",
+    "crossover"
+  ],
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "jsdoc": "^3.4.0",
+    "mocha": "^2.3.4",
+    "request": "^2.67.0",
+    "superagent": "^1.6.1"
+  }
+}
