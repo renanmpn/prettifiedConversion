@@ -1,14 +1,14 @@
 {
-  "name": "renanCrossover",
+  "name": "prettifiedConversion",
   "author": "Renan Monteiro Pinto Neto",
   "version": "0.2.0",
-  "description": "renanCrossover is a sandbox programm for Crossover",
+  "description": "prettifiedConversion is a sandbox programm for Github",
   "scripts": {
     "test": "mocha"
   },
   "tags": [
     "bootstrap",
-    "crossover"
+    "nodejs"
   ],
   "private": true,
   "dependencies": {
